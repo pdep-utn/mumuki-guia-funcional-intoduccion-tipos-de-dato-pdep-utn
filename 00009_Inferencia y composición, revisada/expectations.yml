@@ -1,0 +1,14 @@
+---
+expectations:
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: largoEsPar
+  inspection: HasBinding
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: largoEsPar
+  inspection: HasComposition
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: largoEsPar
+  inspection: HasUsage:even
+- !ruby/hash:ActiveSupport::HashWithIndifferentAccess
+  binding: largoEsPar
+  inspection: HasUsage:length

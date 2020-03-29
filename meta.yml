@@ -1,0 +1,25 @@
+---
+name: Introducción a los Tipos de Datos
+locale: es
+type: learning
+beta: false
+teacher_info: ''
+language: haskell
+id_format: "%05d"
+order:
+- 1
+- 2
+- 6
+- 7
+- 8
+- 9
+- 3
+- 4
+- 5
+- 10
+- 14
+- 11
+- 13
+- 12
+- 15
+private: false
