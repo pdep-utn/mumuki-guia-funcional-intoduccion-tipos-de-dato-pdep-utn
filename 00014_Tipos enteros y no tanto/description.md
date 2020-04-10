@@ -1,4 +1,4 @@
-Recién vimos nuestra primera clase de tipos: `Num`. Y si una variable tiene esta restricción, significa que vamos a sumarla, restarla o multiplicarla (¡sí, sólo eso!). Por eso es que funciones como `doble`, `siguiente` o `anterior` trabajan con `Num`s:
+Recién vimos nuestra primera clase de tipos: `Num`. Y si una etiqueta tiene esta restricción, significa que vamos a sumarla, restarla o multiplicarla (¡sí, sólo eso!). Por eso es que funciones como `doble`, `siguiente` o `anterior` trabajan con `Num`s:
 
 ```haskell
 siguiente :: Num a => a -> a

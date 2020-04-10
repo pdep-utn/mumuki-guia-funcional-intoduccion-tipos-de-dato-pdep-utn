@@ -1,4 +1,4 @@
-Recién viste como escribir el **tipo de dato** de una **constante** de forma explícita.
+Recién viste como escribir el **tipo de dato** de un **alias** de forma explícita.
 
 A las **funciones**, al ser **valores**, también se les puede explicitar el tipo de dato, sólamente que es un poco distinto
 
