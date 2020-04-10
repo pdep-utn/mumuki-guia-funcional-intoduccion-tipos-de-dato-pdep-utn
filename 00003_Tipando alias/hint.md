@@ -6,4 +6,4 @@ Los tipos más comunes de haskell son:
 * **Número con coma**: `Float`
 * **Número entero**: `Int`
 
-Y podemos explicitar el tipo de una variable en cualquier lugar (arriba, abajo, pegada a la definición, da lo mismo)
+Y podemos explicitar el tipo de una etiqueta en cualquier lugar (arriba, abajo, pegada a la definición, da lo mismo)
